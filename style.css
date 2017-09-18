@@ -2,10 +2,14 @@
 
 body {
   font-family: 'Oswald', sans-serif;
-
+text-align: center;
 background-color:#FF9A9A;
 color: #31395B;
 font-size: 18pt;
+}
+
+ul {
+  text-align: left;
 }
 
 h1 {
