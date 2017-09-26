@@ -4,7 +4,7 @@ body {
   font-family: 'Oswald', sans-serif;
 text-align: center;
 background-color:#FF9A9A;
-color: #31395B;
+color: #146DA2;
 font-size: 18pt;
 }
 
@@ -30,4 +30,24 @@ font-size: 24pt;
 
 h4{
 font-size: 24pt;
+}
+
+
+a:link, a:visited {
+
+  background-color: #FF9A9A;
+  color: #146DA2;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+
+  background-color: #FFC4C4;
+}
+
+
+  #33CDFF
 }
