@@ -28,9 +28,6 @@ h3{
 font-size: 24pt;
 }
 
-h4{
-font-size: 24pt;
-}
 
 
 a:link, a:visited {
@@ -50,7 +47,17 @@ a:hover, a:active {
 
 
 table, th, td {
+  border: 6px solid white;
+  border-collapse: collapse;
+}
 
-  border: 4px #60C4FF;
-  border collapse: collapse;
+td {
+
+  padding: 10px;
+  font-size: 24pt;
+
+}
+
+img{
+  width: 500px;
 }
