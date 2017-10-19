@@ -1,0 +1,33 @@
+body {
+
+
+  font-family: 'Teko', sans-serif;
+  background-color: #FBF5F6;
+  color: #9C2436;
+  font-size: 28pt;
+  text-align: left;
+}
+a:link, a:visited {
+
+  background-color: #FBF5F6;
+  color: #9C2436;
+  padding: 14px 25px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a :hover, a:active {
+
+  color: white;
+}
+
+h1 {
+
+font-size: 64pt;
+text-align: center;
+}
+
+td
+
+
+}
