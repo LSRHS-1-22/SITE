@@ -18,7 +18,7 @@ a:link, a:visited {
 
 a :hover, a:active {
 
-  color: white;
+  color: #9E5561;
 }
 
 h1 {
@@ -27,7 +27,20 @@ font-size: 64pt;
 text-align: center;
 }
 
-td
+td {
+  width: 600px;
+  padding: 10px;
+}
 
+img{
+  width: 600px;
+  height: 800px;
+}
+table, th, td {
+  border: solid black;
+  border-collapse: collapse;
+  font: 28pt;
+
+}
 
 }
