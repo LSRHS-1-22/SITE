@@ -16,10 +16,10 @@ a:link, a:visited {
   display: inline-block;
 }
 
-a :hover, a:active {
+a:hover, a:active {
 
-  color: #9E5561;
-}
+    color: #FFC4C4;
+  }
 
 h1 {
 
@@ -27,19 +27,22 @@ font-size: 64pt;
 text-align: center;
 }
 
+h4{
+  font-size: 18pt;
+}
+
 td {
   width: 600px;
   padding: 10px;
+    font-size: 28pt;
 }
 
 img{
   width: 600px;
-  height: 800px;
 }
 table, th, td {
   border: solid black;
   border-collapse: collapse;
-  font: 28pt;
 
 }
 
