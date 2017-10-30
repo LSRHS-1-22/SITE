@@ -8,14 +8,13 @@
 <script type="text/javascript">
 function play() {
   var a = Math.random ()
-  if (a <0.1){
-    location.href =""
+  if (a <0.3){
+    location.href ="page9.html"
   }else {
-    location.href =""
+    location.href ="page6.html"
   }
   }
   </script>
-
 
 
 
@@ -36,7 +35,7 @@ You have a bad game</h1>
   Do you...
 <ul>
   <li> <a href="page6.html"> Continue playing</a> </li>
-    <li> <a href="page7.html"> Take time off to practice more </a> </li>
+    <li> <a href="#" onclick= play()> Take time off to practice more </a> </li>
   </ul>
 </td>
 </tr>
