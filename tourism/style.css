@@ -58,6 +58,7 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  color: #16A3CC;
 }
 
 a:hover, a:active {
